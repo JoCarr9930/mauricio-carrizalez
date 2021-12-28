@@ -101,7 +101,7 @@ const NavbarComp = () => {
             Inicio
           </NavLink>
           <NavLink
-            to="/mauricio-carrizalez/about"
+            to="/mauricio-carrizalez/#/about"
             activeStyle
             onClick={() => {
               setClick(false);
