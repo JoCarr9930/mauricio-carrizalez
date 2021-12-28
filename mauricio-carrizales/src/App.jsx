@@ -12,7 +12,7 @@ import ScrollToTop from "./Utilities/Functions";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/mauricio-carrizalez">
       <NavbarComp />
       <ScrollToTop />
       <Switch>
