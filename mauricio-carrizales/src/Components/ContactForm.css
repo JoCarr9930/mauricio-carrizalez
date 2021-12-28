@@ -1,0 +1,28 @@
+input,
+textarea {
+  color: #fffffa;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid #fffffa;
+  border-radius: 2px;
+  padding: 5px 10px;
+  margin-bottom: 1.5rem;
+  resize: none;
+}
+
+button {
+  color: #fffffa;
+  background: rgba(74, 111, 165, 1);
+  border: 2px solid #000103;
+  border-radius: 5px;
+  padding: 8px 15px;
+  margin-bottom: 1.5rem;
+  cursor: pointer;
+  transition: all 150ms ease-in-out;
+}
+
+button:hover {
+  background: rgba(74, 111, 165, 0.8);
+  border: 2px solid #000103;
+  transform: scale(1.05);
+}
