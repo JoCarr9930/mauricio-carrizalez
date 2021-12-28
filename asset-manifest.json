@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mauricio-carrizalez/static/css/main.88de913b.css",
+    "main.js": "/mauricio-carrizalez/static/js/main.25ece2eb.js",
+    "index.html": "/mauricio-carrizalez/index.html",
+    "main.88de913b.css.map": "/mauricio-carrizalez/static/css/main.88de913b.css.map",
+    "main.25ece2eb.js.map": "/mauricio-carrizalez/static/js/main.25ece2eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88de913b.css",
+    "static/js/main.25ece2eb.js"
+  ]
+}
