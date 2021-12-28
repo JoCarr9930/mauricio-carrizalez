@@ -35,7 +35,7 @@ const ErrorPage = () => {
       <Content>
         <h1>404</h1>
         <p>Página no encontrada</p>
-        <Link to={"/mauricio-carrizalez/"}>
+        <Link to={"/"}>
           <Button>Pagina de inicio</Button>
         </Link>
       </Content>

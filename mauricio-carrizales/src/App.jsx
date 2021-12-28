@@ -12,14 +12,14 @@ import ScrollToTop from "./Utilities/Functions";
 
 function App() {
   return (
-    <Router basename="/mauricio-carrizalez">
+    <Router basename="/">
       <NavbarComp />
       <ScrollToTop />
       <Switch>
-        <Route path="/mauricio-carrizalez/" exact component={Home} />
-        <Route path="/mauricio-carrizalez/about" component={About} />
-        <Route path="/mauricio-carrizalez/art" component={Gallery} />
-        <Route path="/mauricio-carrizalez/submit" component={FormSubmit} />
+        <Route path="/" exact component={Home} />
+        <Route path="/about" component={About} />
+        <Route path="/art" component={Gallery} />
+        <Route path="/submit" component={FormSubmit} />
         <Route path="*" component={NotFound} />
       </Switch>
       <Footer />
