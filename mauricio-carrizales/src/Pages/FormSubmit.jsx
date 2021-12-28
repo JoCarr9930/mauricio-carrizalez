@@ -45,7 +45,7 @@ const FormSubmit = () => {
           <AiOutlineCheck size={30} style={{ color: "green" }} />
         </Section>
         <p>Mensaje enviado correctamente</p>
-        <Link to="/Art-Gallery/">
+        <Link to="/mauricio-carrizalez/">
           <button>Regrecar</button>
         </Link>
       </MessageContainer>

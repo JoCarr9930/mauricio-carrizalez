@@ -40,7 +40,7 @@ const ContactForm = () => {
         <input
           type="hidden"
           name="_next"
-          value="https://jocarr9930.github.io/Art-Gallery/submit"
+          value="https://jocarr9930.github.io/mauricio-carrizalez/submit"
         />
         <input type="text" placeholder="nombre" name="Nombre" required />
         <input
