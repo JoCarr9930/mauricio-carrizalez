@@ -22,6 +22,10 @@ const MessageContainer = styled.div`
   align-items: center;
   flex-direction: column;
 
+  @media and screen(max-width: 520px){
+    width: 75%;
+  }
+
   h1 {
     margin-right: 1rem;
     margin-bottom: 2rem;

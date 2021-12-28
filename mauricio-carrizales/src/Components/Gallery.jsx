@@ -31,14 +31,16 @@ const Img = styled.img`
   justify-content: center;
   align-items: center;
   width: 25%;
-  padding: 20px;
+  padding: 10px 5px;
   object-fit: cover;
 
   @media screen and (max-width: 780px) {
     width: 50%;
+    padding: 10px 10px;
   }
   @media screen and (max-width: 504px) {
     width: 100%;
+    padding: 20px 0;
   }
 `;
 
