@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mauricio-carrizalez/static/css/main.88de913b.css",
-    "main.js": "/mauricio-carrizalez/static/js/main.c17d2a95.js",
+    "main.js": "/mauricio-carrizalez/static/js/main.c2b8df23.js",
     "index.html": "/mauricio-carrizalez/index.html",
     "main.88de913b.css.map": "/mauricio-carrizalez/static/css/main.88de913b.css.map",
-    "main.c17d2a95.js.map": "/mauricio-carrizalez/static/js/main.c17d2a95.js.map"
+    "main.c2b8df23.js.map": "/mauricio-carrizalez/static/js/main.c2b8df23.js.map"
   },
   "entrypoints": [
     "static/css/main.88de913b.css",
-    "static/js/main.c17d2a95.js"
+    "static/js/main.c2b8df23.js"
   ]
 }
