@@ -3,7 +3,11 @@ import styled from "styled-components";
 import "./ContactForm.css";
 
 const FormContainer = styled.div`
-  height: 75vh;
+  height: 92vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   background: black;
   padding: 20px 0;
 `;
@@ -14,15 +18,25 @@ const Contact = styled.h1`
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin-top: 2rem;
 `;
 
 const Form = styled.form`
   display: flex;
   flex-direction: column;
-  justify-content: start;
+  justify-content: center;
   align-items: center;
   height: 100%;
+  width: 100%;
   padding: 20px 0;
+
+  input{
+    width: 50%;
+  }
+
+  textarea{
+    width: 50%;
+  }
 `;
 
 const ContactForm = () => {
