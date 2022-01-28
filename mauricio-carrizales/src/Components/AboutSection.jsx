@@ -66,7 +66,7 @@ const AboutSection = () => {
         </Description>
       </Info>
       <ImgContainer>
-        <Image src="https://scontent.fgdl5-1.fna.fbcdn.net/v/t1.6435-9/103396649_3904480959626395_8296736258659740141_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=6eUnpio_OpcAX8kCQlC&tn=DJnaaH7AB4RGKs_3&_nc_ht=scontent.fgdl5-1.fna&oh=00_AT8O0y1Y9AJKkZ3BIxKz2AB0tHmYq37E-IDx9IHD-zcE7Q&oe=61ED7B06" />
+        <Image src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/103396649_3904480959626395_8296736258659740141_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ae8ZOfNEXfUAX-X_W8m&tn=DJnaaH7AB4RGKs_3&_nc_ht=scontent-lax3-1.xx&oh=00_AT8fRECscScrZ3P3M-zNyPE6X5ReZZGvZ0Vd8yZVUVr3Jw&oe=6218FC86" />
       </ImgContainer>
     </AboutContainer>
   );

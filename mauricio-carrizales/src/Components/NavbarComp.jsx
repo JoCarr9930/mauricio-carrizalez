@@ -93,7 +93,6 @@ const NavbarComp = () => {
           <NavLink
             to="/"
             exact
-            activeStyle
             onClick={() => {
               setClick(false);
             }}
@@ -102,7 +101,6 @@ const NavbarComp = () => {
           </NavLink>
           <NavLink
             to="/about"
-            activeStyle
             onClick={() => {
               setClick(false);
             }}
@@ -111,7 +109,6 @@ const NavbarComp = () => {
           </NavLink>
           <NavLink
             to="/art"
-            activeStyle
             onClick={() => {
               setClick(false);
             }}

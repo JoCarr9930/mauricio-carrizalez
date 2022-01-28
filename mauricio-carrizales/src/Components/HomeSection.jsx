@@ -50,7 +50,7 @@ const HomeSection = () => {
   return (
     <>
       <Container>
-        <Img src="https://scontent.fgdl5-1.fna.fbcdn.net/v/t1.6435-9/53061944_2524312214309950_7419359981532610560_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Sk8Aixhy8X4AX-k-F_M&_nc_ht=scontent.fgdl5-1.fna&oh=00_AT-sOZzbwic3BCOFXNjctTdVLTIApbpcSbZL0ftgVlZssQ&oe=61EABD00" />
+        <Img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/53061944_2524312214309950_7419359981532610560_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=jFRmIcuPibkAX8wX5lU&_nc_ht=scontent-lax3-2.xx&oh=00_AT-bHs0AQnfiCN5bx2VAwxXb1-jYylJGPUA_1icTLPDS5w&oe=621A3300" />
         <Info>
           <NavLink to="/about" activeStyle>
             <Button>Contáctame</Button>
@@ -58,7 +58,7 @@ const HomeSection = () => {
         </Info>
       </Container>
       <Container>
-        <Img src="https://scontent.fgdl5-1.fna.fbcdn.net/v/t31.18172-8/20543731_1586010551473459_2041133174688418614_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=YgHwQRczN0YAX94d0zI&_nc_ht=scontent.fgdl5-1.fna&oh=00_AT8c0x_1x588L-YUFtymfAov4BX4sDhag-vZ_I5FLPWnVw&oe=61EC29F0" />
+        <Img src="https://scontent-lax3-2.xx.fbcdn.net/v/t31.18172-8/20543731_1586010551473459_2041133174688418614_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=k5XcLDc12rkAX8JveRW&_nc_ht=scontent-lax3-2.xx&oh=00_AT_yTzNfxK6rYJ8eQv_-wM_5IMgSttDv1t-ErKHgnAvUHA&oe=6217AB70" />
         <Info>
           <NavLink to="/art" activeStyle>
             <Button>Ver arte</Button>
