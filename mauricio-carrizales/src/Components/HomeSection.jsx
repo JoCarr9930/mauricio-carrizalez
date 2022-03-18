@@ -50,7 +50,7 @@ const HomeSection = () => {
   return (
     <>
       <Container>
-        <Img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/53061944_2524312214309950_7419359981532610560_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=jFRmIcuPibkAX8wX5lU&_nc_ht=scontent-lax3-2.xx&oh=00_AT-bHs0AQnfiCN5bx2VAwxXb1-jYylJGPUA_1icTLPDS5w&oe=621A3300" />
+        <Img src={require("../Photos/Gallery/five.jpg")} />
         <Info>
           <NavLink to="/about" activeStyle>
             <Button>Contáctame</Button>
@@ -58,7 +58,7 @@ const HomeSection = () => {
         </Info>
       </Container>
       <Container>
-        <Img src="https://scontent-lax3-2.xx.fbcdn.net/v/t31.18172-8/20543731_1586010551473459_2041133174688418614_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=k5XcLDc12rkAX8JveRW&_nc_ht=scontent-lax3-2.xx&oh=00_AT_yTzNfxK6rYJ8eQv_-wM_5IMgSttDv1t-ErKHgnAvUHA&oe=6217AB70" />
+        <Img src={require("../Photos/Gallery/seventeen.jpg")} />
         <Info>
           <NavLink to="/art" activeStyle>
             <Button>Ver arte</Button>
